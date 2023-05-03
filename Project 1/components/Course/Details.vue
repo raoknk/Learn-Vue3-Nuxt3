@@ -1,0 +1,19 @@
+<template>
+  <div class="mt-10 flex flex-col mx-5 w-[1000px]">
+    <img src="./skill1.png" alt="" class="w-[260px] rounded-full mx-auto" />
+    <div class="flex justify-around">
+      <h1 class="text-4xl">Name: HTML</h1>
+      <h2 class="text-blue-600 text-4xl">Cost : 123 $</h2>
+    </div>
+    <div class="flex justify-around">
+      <h3 class="text-gray-400 text-2xl">Version abc</h3>
+      <h3 class="text-gray-400 text-2xl"></h3>
+    </div>
+    <p class="w-[800px] mx-auto my-5">
+      The HyperText Markup Language or HTML is the standard markup language for
+      documents designed to be displayed in a web browser. It is often assisted
+      by technologies such as Cascading Style Sheets and scripting languages
+      such as JavaScript
+    </p>
+  </div>
+</template>
