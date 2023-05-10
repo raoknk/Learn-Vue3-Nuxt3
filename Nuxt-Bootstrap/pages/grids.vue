@@ -16,6 +16,7 @@
         </div>
         <div class="collapse navbar-collapse m-3">
           <ul class="navbar-nav" data-app-modern-menu="true">
+            
             <li class="nav-item">
               <a
                 class="nav-link link text-black display-7 fs-4 ms-5 me-5"
@@ -25,37 +26,30 @@
             </li>
             <li class="nav-item">
               <a
-                class="nav-link link text-black display-7 fs-4 ms-5 me-5"
-                href="#"
-              >
-              </a>
-            </li>
-            <li class="nav-item">
-              <a
-                class="nav-link link text-black display-7 fs-4 ms-5 me-5"
+                class="nav-link link text-black display-7 fs-3 ms-3 me-3"
                 href="#"
               >
                 About
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link link text-black display-7 fs-4 me-5" href="#">
+              <a class="nav-link link text-black display-7 fs-3 me-3" href="#">
                 Work
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link link text-black display-7 fs-4 me-5" href="#">
+              <a class="nav-link link text-black display-7 fs-3 me-3" href="#">
                 Blog
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link link text-black display-7 fs-4 me-5" href="#">
+              <a class="nav-link link text-black display-7 fs-3 me-3" href="#">
                 Contact
               </a>
             </li>
           </ul>
 
-          <div class="navbar-buttons mbr-section-btn">
+          <div class="navbar-buttonsn">
             <a class="btn btn-warning fs-4" href="#"> We're hiring</a>
           </div>
         </div>
@@ -80,6 +74,7 @@
       <div class="col"></div>
     </div>
   </div>
+
   <div class="row mt-6 bg-white p-5">
     <div class="col p-5">
       <h1 class="font-60 text-gray">
@@ -156,6 +151,10 @@
     </div>
   </div>
 
+
+
+
+
   <div class="row bg-black">
     <div class="col p-5">
       <img src="~/assets/lightbulb.svg" alt="" class="w-75 m-4" />
@@ -210,6 +209,9 @@
     </div>
   </div>
 
+
+
+  <!--  -->
   <div
     class="container position-relative border-radius-60 mt-5 overflow-hidden"
   >
@@ -274,6 +276,9 @@
     </div>
   </div>
 
+
+
+  
   <div class="container">
     <h1 class="p-5 text-center text-warning mt-5">Our team</h1>
     <div class="row">
@@ -296,7 +301,7 @@
   </div>
 
   <div class="container my-5">
-    <img src="~/assets/brand-strategy.jpeg" alt="" class="rounded" />
+    <img src="~/assets/brand-strategy.jpeg" alt="" class="rounded w-100" />
   </div>
 
   <div class="bg-warning mt-5 text-center p-5">
