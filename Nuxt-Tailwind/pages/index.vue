@@ -6,5 +6,5 @@
     <Gallery />
     <Team />
     <ContactUs />
-    <FooterPage />
+    <Footer />
 </template>

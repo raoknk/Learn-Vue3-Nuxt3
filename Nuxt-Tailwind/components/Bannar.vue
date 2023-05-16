@@ -13,12 +13,7 @@
     <div class="flex items-center flex-col p-5">
       <h1 class="text-7xl text-gray-600 m-5 px-2 py-5">Customize Your Logo with 'Creative Logo Studio'</h1>
       <p class="p-5 m-5 text-2xl">
-        The author can now raise some fears about that course. The pain should
-        be followed by the education of the people living with the disease. Now
-        it's going to be fun for kids. I am flattered by the course of laughter
-        at my basketball. Now the homework will be done unless the life is taken
-        by the teacher. Pharetra diam be amet nislus suscip adipiscing ultricies
-        must be drunk. Malesuada free breakfast now and then.
+        The author can now raise some fears about that course. 
       </p>
     </div>
     <div class="m-5">

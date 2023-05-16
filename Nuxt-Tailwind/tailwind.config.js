@@ -6,7 +6,7 @@
 //         lg: '976px',
 //         xl: '1440px',
 //       },
-//       colors: {
+//       colors: { text-dark
 //         'dark': '#1fb6ff',
 //         'normal': '#ff49db',
 //         'light': '#ff7849',
